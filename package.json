@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "name": "@leolabs/email-addresses",
   "description": "An email address parser based on rfc5322",
   "keywords": [
