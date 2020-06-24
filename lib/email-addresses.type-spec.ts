@@ -1,4 +1,4 @@
-import emailAddresses, { parseOneAddress } from "email-addresses";
+import emailAddresses, { parseOneAddress } from "@leolabs/email-addresses";
 
 emailAddresses("test@example.com")?.ast;
 

@@ -1,4 +1,4 @@
-declare module "email-addresses" {
+declare module "@leolabs/email-addresses" {
   export interface ASTNode {
     name: string;
     tokens: string;
