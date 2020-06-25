@@ -16,7 +16,7 @@ declare module "@leolabs/email-addresses" {
       domain: ASTNode;
       comments: ASTNode[];
     };
-    name: string;
+    name: string | null;
     address: string;
     local: string;
     domain: string;
